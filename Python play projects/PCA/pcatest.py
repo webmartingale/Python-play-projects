@@ -203,6 +203,8 @@ plt.title('Transformed samples with class labels from matplotlib.mlab.PCA()')
 
 plt.show()
 
+# Github commit test1
+# Github commit test2
 
 # sklearn.decomposition.PCA
 plt.plot(sklearn_transf[0:20,0],sklearn_transf[0:20,1], 'o', markersize=7, color='blue', alpha=0.5, label='class1')
