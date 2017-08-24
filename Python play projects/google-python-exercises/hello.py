@@ -18,6 +18,7 @@ and run Python code; now you just need to learn Python!
 """
 
 import sys
+print 'Github rocks!'
 a = 2
 print 'Outermost statements run first! :)'
 a = a + 4
